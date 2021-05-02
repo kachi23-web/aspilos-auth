@@ -1,0 +1,8 @@
+#mu-header .mu-header-area .mu-header-top-left .home{
+    border-right: 1px solid #ddd;
+    display: inline;
+    font-size: 14px;
+    float: left;
+    margin-right: 10px;
+    padding-right: 10px;
+  }
